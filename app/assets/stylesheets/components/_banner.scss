@@ -23,15 +23,15 @@
 	padding-top: 15vh;
 	padding-bottom: 15vh;
 	height: 50vh;
-	background-image: url("bg-tech.png");
-	background-repeat: no-repeat;
-	background-position: top;
-	filter: grayscale(0.2);
-	background-size: cover;
+	background-color: #c7eae0;
 	h2 {
-		color: $red;
+		color: $yellow;
 		font-size: 3rem;
 		font-weight: 400;
 		letter-spacing: 1px;
+	}
+	h4 {
+		color: $red;
+		margin-bottom: 40px;
 	}
 }
