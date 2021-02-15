@@ -1,0 +1,17 @@
+.box {
+	padding: 40px;
+	margin: 40px;
+	width: 33%;
+	text-align: center;
+	background-color: white;
+	border-radius: 3px;
+	p {
+		font-size: 1.5rem;
+		color: $red;
+	}
+}
+
+.b-yellow {
+	background-color: #ebebeb;
+	width: 100%;
+}
