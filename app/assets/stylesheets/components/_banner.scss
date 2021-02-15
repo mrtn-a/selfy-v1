@@ -1,10 +1,19 @@
 .home-banner {
 	height: 80vh;
-	color: $red;
 	text-align: center;
-	padding-top: 10vh;
+	padding-top: 15vh;
 	h1 {
+		color: $red;
 		font-size: 4rem;
+		margin-bottom: 30px;
+		font-weight: 700;
+	}
+	h3 {
+		color: $yellow;
 		margin-bottom: 60px;
 	}
+}
+
+.text-banner {
+	margin-top: 10vh;
 }
