@@ -23,15 +23,20 @@
 	padding-top: 15vh;
 	padding-bottom: 15vh;
 	height: 50vh;
-	background-color: #c7eae0;
+	background-color: #465b64;
 	h2 {
-		color: $yellow;
+		color: #fff;
 		font-size: 3rem;
 		font-weight: 400;
 		letter-spacing: 1px;
 	}
 	h4 {
-		color: $red;
+		color: $green;
 		margin-bottom: 40px;
 	}
+}
+
+.description {
+	margin-top: 10vh;
+	height: 70vh;
 }
