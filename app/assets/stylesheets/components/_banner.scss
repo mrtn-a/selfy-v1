@@ -2,16 +2,17 @@
 	height: 80vh;
 	text-align: center;
 	padding-top: 15vh;
+	margin-bottom: 10vh;
 	h1 {
-		color: $red;
+		color: $grey;
 		font-size: 4rem;
 		margin-bottom: 20px;
 		font-weight: 400;
 		letter-spacing: 3px;
 	}
 	h3 {
-		color: $yellow;
-		margin-bottom: 40px;
+		color: $red;
+		margin-bottom: 50px;
 	}
 }
 
@@ -38,11 +39,18 @@
 }
 
 .description {
-	margin-top: 10vh;
-	height: 70vh;
+	height: 60vh;
 	h2 {
 		color: $grey;
 		font-size: 2.5rem;
 		font-weight: 400;
 	}
+}
+
+.h-70 {
+	height: 70vh;
+}
+
+.pt-10 {
+	padding-top: 10vh;
 }
